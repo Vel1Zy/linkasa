@@ -1,0 +1,5 @@
+
+
+- maintenance g ada maintenance crew ntar ganti aja jadi maintenance biasa 
+
+crew -> cuman buat flight (biar g complex)

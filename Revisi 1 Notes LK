@@ -1,0 +1,103 @@
+Use Case Diagram 
+
+Use Case Dimulai Dengan Kata kerja (misal send)
+Jangan pake Manage
+
+Information Desks Staff Ada yang kurang
+
+Airport Operations Manager Monitor Daily Operation Terlalu General
+Access Baggage Handling Operations Jangan Access (View aja)
+Manage Maintenance Request (Jangan Manage)
+
+Flight Operations Manager
+Assign Flight Crews
+Create Flight Crews 
+ini logicnya create Flight Crewnya
+
+Ground Handling Manager
+View Baggage Statuses Nyasar
+
+Cargo Manager Bisa Create Storage baru juga, Buat Warehouse baru, bisa remove juga, Tambahin Assign
+Kata"nya jangan Create, tapi Expand, Add
+
+Logistics Manager 
+Track Stages ganti jadi View
+
+
+XXX***
+Airport Director 
+Langsung dari Actor ke Use case aja , yang view detailed Comprehensive Airport Operational DashBoard (Dibikin lebih detail, lebih spesifik.)
+
+Chief Financial Officer
+Modifynya di cek lagi, logicnya dibaca lagi.
+
+Send Chat ((StakeHolder)) jangan open chat, tapi bisa kirim ke individual dan private Dan tidak semua orang bisa chat
+
+Create Staff Data juga udah cukup
+
+Chief Operations Officer
+View Comprehensive dipendekin
+
+Baggage Security Staff, diperpendek kata"nya yang Assign Staff Deployment
+
+
+
+
+
+
+
+Use Case Description 
+Scenario dipanjangin
+Triggering Event dibanyakin
+Brief Desc 5-6 Kalimat
+Actor bisa lebih dari 1
+Kurang Related Use Case
+Precondition (tambahan bukan cuman yang berhubungan dengan System, tapi juga diluar system)
+(ex: Item Data (ex. dsajdsak))
+
+Flow of Activites : 
+Exeception condition dibikin jelas datanya apa aja (data barang)
+
+Fuel manager hilangin dari Stakeholders
+Change all
+
+Stakeholder jangan keulang
+
+Validasi Data dibagi jadi 2 bagian, 
+
+1. itu basic data (Data Customer, Data Barang, Data Flights)
+2. itu data yang berulang (Kalo misalnya alamat, dia masukin lebih dari satu itu tetep dimasukkin 2 2 nya.)
+
+
+
+Modify Airport Facility
+Brief, change detailnya
+Postcondition is Updated
+
+tambahin yang banyak
+Validate bisa, langsung create bisa.
+Exceptionnya bisa ditambahin lagi
+
+Add Flight's Schedule
+
+Triggering Event, Brief Description
+Stakeholder aman
+
+PostCondition PreCondition.
+Kalo salah kasih error Message.
+
+Use Case Description
+Activity Diagram diambil dari Use Case Description (langsung ada)
+semuanya dirapihin lagi
+semua activity diagram nyambung ke Use Case Description
+
+Detailin setiap Cap tcha
+
+
+Automation Boundary
+
+Apa itu Fork Node
+Pelajari semua validasi.
+
+
+

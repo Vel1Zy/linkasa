@@ -1,0 +1,316 @@
+
+ACTORS
+
+1. Customer Service Manager
+
+general jobs
+- oversee customer service teams
+- Develop customer service policies
+- manage complaint
+- feedback systems
+
+what they can do :
+1. monitor customer feedback
+2. analyze data to indentify areas for improvement
+3. track perfomance of customer service initiatives
+4. manage broadcast and disseminate information to other departments,
+5. communicate to every department the passenger issue.
+
+(passengers can express their opinions and level of satisfaction through a
+feedback form created and can be updated by the Customer Service Manager)
+
+note = bisa ganti priority level broadcast nya, ganti recipient nya.
+
+CHAT FEATURE that allows quick coordination by letting everyone at the airport
+view messages, making communication fast and efficient.
+
+2. Information Desk Staffs.
+
+general jobs
+
+- provide information and assistance to passengers
+- direction, flight information, any other shit
+  other shit.
+
+what they can do : 
+
+- using the app can -> access real time flight information, terminal maps, and
+- communicate with other department
+
+note = 
+
+3. Lost and Found Staff
+general jobs
+
+- manage lost and found department
+- assisting passengers.
+
+what they can do : 
+
+- CRUD digital log of lost and found items, attach photos and descriptions 
+
+note = other department jg
+
+4. Check in staff
+
+assisting passengers during the check in process : 
+
+- verifying tickets, checking luggage, issuing boarding passes.
+
+what they can do : 
+1. access real time flight, passenger information, managing luggage or bagge
+more efficiently.
+2. upload photos of luggage or manually input data such as weight, dimensions,
+contents of the luggage.
+3. communicate with other departments in case of any issues.
+4. creation and modification of boarding passes,
+5. print out a boarding pass as a detail view
+6. discretion to cancel or update boarding passes.
+
+5. Gate Agents
+
+managin boarding process at the flight gates, assisting passengers with
+boarding, managing seating arrangements, and addresing any last minute
+ticketing concerns
+
+what they can do 
+1. acces to flight information
+2. seating charts
+3. passenger data
+4. get information on flight delays = flight information
+5. chat kalau emergency
+
+
+6. Airport Operations Manager
+
+oversees operations of the airport
+
+what they can do :
+1. monitor daily operations
+2. access to flight info
+3. flight statuses = Flight Information.
+4. baggage handling operations (loading unloading transfers)
+5. monitor and maange maintance requests for airport facilites and equipment
+6. receive live updates on the current weather condition.
+7. coordinate between different departments 
+8. chat feature.
+
+7. Flight Operations Manager
+
+supervises scheduling planning management of flights
+
+what they can do:
+1. check flight data 
+crucial information : number of IDs, boarding times, arrival times, points of
+origin and destination.
+2. check flight status
+3. manage flight schedules, to delay and cancel flights.
+4. detailed information regarding the total number of passengers, personal
+details, particulars of pilot crews for each flight.
+5. manage and assign flight crews including pilots and cabin crew, to specific
+flights.
+6. chat feature
+
+8. Ground Handling Manager
+
+manage activities related to aircraft handling at the ground level, baggage
+handling aircraft, aircraft cleaning, and refueling.
+
+what they can do : 
+1. monitor status of baggage.
+2. manage refueling schedules.
+3. ensure timely availability of ground handling staff by schedulign their
+tasks.
+4. chat feature jg
+
+9. Landside Operations Manager
+
+oversee airport's landside domains, encompass parking facilites, ground
+transportation services, and terminal access.
+
+what they can do : 
+1. manage transportation schedules and routes
+2. oversee parking facilites.
+3. detailed information on transportation routes and manage the landside
+operations staff to maange each segment of the journey
+4. chat feature.
+
+
+10. Maintenance Manager 
+
+oversee airport facilites and equipment are good.
+
+what they can do : 
+1. manage maintenance schedules.
+2. track equipment statuses
+3. assign maintenance tasks to personnel based on equiment needs
+4. coordinate with maintaen personel using chat feature.
+
+11. Customs and Border Control Officers.
+
+monitor and control the movement of people and goods accros the country's
+borders
+
+what they can do :
+1. input passport and visa details -> customer jg bisa submit eletronically.
+2. remove the passport and visa if customer salah mskin.
+3. modify submitted details.
+4. remove outdated or incorrect customs declarations.
+5. generate detailed view of all the passenger data that already inputted
+6. logging details such as the time, date, and location of border crossings and
+closely monitoring the movement of both individuals andgoods.
+7. creating inspection record document of detailed inspection record of goods,
+encompassing photographs, descriptions and notes on any irregulatrities
+observed.
+8. modify inspection records
+9. chat feature.
+
+12. Baggage Security Supervisor
+
+oversees security of passenger lugagge from the moment it is check in until
+destination. luggage screening processes, securing the areas.
+
+what they can do : 
+1. monitor baggages statuses
+2. manage baggage status.
+3. manage the deployment of staff in baggage handling areas.
+4. manage a log of any security incidents pertaining to baggage.
+5. trace unidentified items.
+6. generate reports on the security operations concerning baggage.
+7. look at reports.
+
+13. Cargo Managers
+
+oversees the transportation handling of cargo at the airport
+
+what they can do : 
+1. monitor cargo shipments in real time
+2. tracking their status and historical movement.
+3. pinpointing their exact locations
+4. management of storage space allocations, realtiem availibility
+5. coordination with ground handling teams, cargo handlers and customs teams
+(chat feature)
+6. manage cargo handling tasks
+
+14. Logistics Manager 
+
+handles the flow of goods and materials throughout the airport, planning,
+implementing, controlling procedures
+
+what they can do : 
+1. generate detailed reports concerning all logistics processes
+2. handle logistics distribution types.
+3. track the stages or routes of cargo movements.
+4. track shipments and deliveries, current status location
+5. managing inventory levels.
+6. chat feature.
+
+15. Fuel Manager.
+
+maanging the fuel supply chain at an airport. overseeing fuel storage
+
+what they can do : 
+1. manage fuel inventories
+2. manage schedule fuel deliveries (staff handling the task and the quantity of
+fuel)
+3. track fuel consumption.
+
+16. Cargo Handlers.
+
+responsible for the physical handling of cargo at the airport, load unload
+cargo from aircraft
+
+what they can do : 
+
+1. receive step by step instructions for handling cargo
+2. task assignments.
+3. report the status of cargo movements 
+4. status of cargo movements.
+5. chat feature
+
+17. Civil Engineering Manager.
+
+oversee the structural integrity of the airport infrastructure (runways,
+terminals, and other facilites). planning and implementing construction and
+renovation projects
+
+what they can do : 
+1. access and manage project plans
+2. monitor progress of ongoing construction or renovations works.
+3. coordinate with other departments
+4. manage budget
+
+APPROVAL DARI CFO.
+
+18. CEO
+
+overseeing all aspects of the airports operation and managements.
+
+what they can do :
+
+1. access to a dashboard where they can view comphrensive reports and analytics
+2. visualize comprehensive reoprts.
+3. download financial reports 
+
+19. CFO 
+manage financial operations and startegies of the airport. (budget management,
+financial planning, oversight of financial procedures and conrtols.
+
+what they can do :
+1. use tool designed for financial planning and budgeting.
+2. tracking and manage revenue and expenses in real time.
+3. generate detailed financial reports.
+4. monitor the financial performance of different departments and projects
+5. oversee financial fund requests.
+6. review accept reject or revise the requests.
+
+20. COO
+
+reponsible for daily operations of the airport
+oversee maintenance, ground support, flight operations
+
+what they can do :
+1. look at scheduling and monitoring of flights
+2. view insights into managing facility management.
+3. view detailed statistics on the consumption of both energy and water.
+4. create daily reoprts.
+5. get information of physical structure
+6. view ongoing maintenane activites and managing maintenance.
+7. chat feature
+
+21. CSO
+
+
+oversee the security infrastructure of the airport.
+
+what they can do : 
+1. monitor manage security incidents
+2. managing the training, deployement and scheduling security personnel.
+3. coordinate with various departments.
+4. generating detailed security reoprts
+
+22. HRD
+
+oversee human resource management, encompassing recruitment training, employee
+relations.
+
+streamline recruitment porcess by taking various steps
+
+what they can do : 
+1. post job position, desc, information
+2. facilitate the acceptance of job offers
+3. arrange manage employee training and evelopment programs.
+4. management of employee records and information. (modify records)
+5. remove records of employee
+6. view detailed employee data
+
+BISA CHAT 
+
+EmployeE cha
+17. COO
+
+
+
+
+
+

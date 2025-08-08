@@ -1,0 +1,56 @@
+customer service manager 
+- broadcast information diperjelas
+- view performance diperjelas
+
+Airport operations manager
+- accept maintenance request kurang
+- update maintenance status request
+- view weather -> current weather
+- view operation not good
+
+Ground Handling Manager
+- view plane data? -> view flight information
+
+Civil Engineering salah financial request
+
+Customs and border control 
+- generate passenger data -> cari penamaan use case
+- kurang buat barang.
+
+
+cargo manager -> kurang employee communication.
+cargo handlers -> update cargo shipments status
+
+COO g bisa liat maintenenace schedule yang dibikin maintenance manager
+
+CFO g bisa revise -> jadi reject ajaa
+
+baggage security supervisor -> kurang bikin report buat lost and found item for
+baggges and lost and found staff harus nya bisa update baggage information
+
+
+------------
+USE CASE DESC
+semua use case description bagian scenario di spesifikin
+
+perjelas semua nya
+ada yang kurang bagian 
+
+system nya ke dilet bagian update transportation schedule
+
+activity diagram 
+bagian revise finanacial request kurang.
+
+sequence diagram end semua node nya
+
+
+create refueling schedule kurang bagian controller ke plane model
+
+kekurangan 1 hal di class diagram
+
+what is automatation boundaries in use case diagram
+event yang ada di use case desc? 
+brief use case desc vs fully
+fork node?
+system sequence diagram
+dependency in class diagram 

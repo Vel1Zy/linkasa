@@ -1,0 +1,163 @@
+Listing 
+
+besok 
+[x] bikin sikuens ada looping fragment
+[] sikuens benerin pas ambil value jadi :=
+[] sikuens optiona note ?
+[] mentoring bullshits jgn lupa.
+
+
+
+UseCase Diagram 
+still thinking about it [ ] ganti crews update jadi delete aja (jadi dia tinggal create) (yang ada crew)
+[x] view passenger data include ke view flight information 
+[x] create maintenance request ?
+[x] request cuman bisa di reject sama accept (reject pake informasi)
+[x] update baggage information ganti jadi update baggage status aja
+[ ] ground handling manager -> jgn dibikin ganti lgsg si groundhandler tapi kan pas dia update si schedule bakal otomatis ke update jg.
+[x] cargo manager salah 
+[x] Customs and Border control officers masih belum lengkap
+
+
+Updated Class Diagram
+[ ] updated class diagram g boelh ada association
+[ ] maintenance activity information harus ada type nya terus itu bagian coo
+
+Maintenance Manager
+[x] create maintenance request
+[x] create maintenance request
+[x] create maintenance schedule
+[x] view maintenance schedule
+[x] delete maintenance schedule
+[x] update maintenance schedule
+[x] create maintenance personnel schedule
+[x] update maintenance personnel schedule
+[x] view maintenance personnel schedule
+[x] delete maintenance personnel schedule
+
+Flight Operation Manager
+
+[x] create flight crew schedule
+[x] delete flight crew schedule
+[x] view flight crew schedule
+[x] create flight schedule
+[x] view flight schedule
+[x] update flight schedule
+[x] delete flight schedule
+
+Information Desk Staff 
+[x] View Terminal Maps
+[x] View Flight Information
+[x] View Passenger Data
+
+Check In Staff 
+[x] view boarding pass
+[ ] print boarding pass
+[ ] update boarding pass
+[ ] cancel boarding pass
+[x] create baggage information
+[x] view passenger data
+
+Lost and Found Staff
+[x] Create Lost And Found Log
+[x] view Lost And Found Log
+[x] update Lost And Found Log
+[x] delete Lost And Found Log
+
+Air Operation Manager 
+[x] Accept Maintenance Request 
+[x] Revise Maintenance Request 
+[x] view Maintenance Request 
+[x] reject Maintenance Request 
+[ ] view current weather
+[x] view baggage information
+[x] view flight information
+[x] view maintenance schedule
+[ ] view maintenance activity
+
+Ground Handling Manager 
+[x] Update Baggage Claim Status-> view Flight information
+[x] Create Refueling Schedule -> View Flight Information
+[x] Update Refueling Schedule
+[x] Delete Refueling Schedule
+[x] View Refueling Schedule
+[x] Create Ground Handler Schedule
+[x] View Ground Handler Schedule
+[x] Delete Ground Handler Schedule
+[x] Update Ground Handler Schedule
+
+Baggage Security Supervisor
+[x] create security staff schedule
+[x] view security staff schedule
+[x] delete security staff schedule
+[x] update security staff schedule
+[x] update baggage security status
+[x] view lost and found log  
+[x] create lost and found log  
+[x] create security incidents
+[x] view security incidents
+[x] delete security incidents
+[x] update security incidents
+
+HRD 
+[x] Create Job Vacancy
+[x] View Job Vacancy
+[x] Delete Job Vacancy
+[x] Update Job Vacancy
+[x] View Job Offers
+[x] Accept Job Offers
+[x] reject Job Offers
+[x] Create employee info
+[x] view employee info
+[x] update employee info
+[x] delete employee info (delete from auth)
+[x] create employee training
+[x] view employee training
+[x] delete employee training
+[x] update employee training 
+
+Customs And Border Control officer
+[x] input passport 
+[x] input visa
+[x] delete passport 
+[x] delete visa
+[x] view visa and passport
+[] generate passenger detail
+[x] view passenger data
+
+Logistics Manager 
+[x] Create Logistics Report
+[x] Update Logistics Report
+[x] Delete Logistics Report
+[x] View Logistics Report
+[x] Create Logistics Information 
+[x] Update Logistics Information 
+[x] Delete Logistics Information 
+[x] View Logistics Information 
+
+Cargo Managers 
+[x] create cargo 
+[x] view cargo 
+[x] update cargo status
+[x] delete cargo 
+[x] add storage 
+[x] delete storage 
+[x] update storage
+[x] add item to storage
+[x] delete item from storage
+[x] Create Cargo Task -> sambil view cargo data
+[x] Update Cargo Task-> sambil view cargo data
+[x] Delete Cargo Task-> sambil view cargo data
+[x] View Cargo Task-> sambil view cargo data
+
+Cargo Handlers 
+[x] view cargo Task
+[x] update cargo shipments datai
+
+[x] creat employee
+[x] create flight crew schedule
+[] create refueling schedule
+[x] delete maintenance personnel schedule
+[x] revise financial request
+[x] update lost and found 
+[] update transportation schedule
