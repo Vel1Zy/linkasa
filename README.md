@@ -1,6 +1,6 @@
 # LinKasa - Airport Management System
 
-> An innovative desktop application and business analysis designed to streamline and enhance airport operations for Angkasa Pura.
+> An innovative desktop application and business analysis designed to streamline and enhance airport operations using Electron, Firebase, and System Analysis and Design following the System Analysis and Design in a Changing World Edition 7e. Utilizing Visual Paradigm Community Edition.
 
 ## About The Project
 
@@ -62,3 +62,7 @@ To run the application in development mode, execute the following command:
 ```sh
 npm run dev
 ```
+
+### Acknowledgements
+
+- Satzinger, J. W., Jackson, R. B., & Burd, S. D. (2016). _Systems Analysis and Design in a Changing World_ (7th ed.).
